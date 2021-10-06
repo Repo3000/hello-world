@@ -1,0 +1,13 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+
+h2 {
+  font-weight: 3em;
+}
